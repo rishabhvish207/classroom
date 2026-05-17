@@ -16,11 +16,13 @@
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",
     "@types/express": "^5.0.6",
+    "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
     "express": "^5.2.1"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
     "drizzle-kit": "^0.31.10",
     "tsx": "^4.22.1",
     "typescript": "^6.0.3"
